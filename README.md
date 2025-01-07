@@ -81,9 +81,4 @@ To run the project on your local machine, follow these steps:
 
 ---
 
-## 🖋️ Relevant Links  
 
-- **Live Site**: [Visa Navigator](https://your-live-site-url.com)  
-- **Repository**: [GitHub Repo](https://github.com/your-repo/visa-navigator)  
-
----
